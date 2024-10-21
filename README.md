@@ -102,7 +102,7 @@ Body:
 }
 ```
 Response: 200 OK with JWT token on success, 400 Bad Request on failure
-[Ekran görüntüsü 2024-10-21 225939.png]
+[loginResponse](https://github.com/Melike10/WebApiJWT/blob/46f94d5a4a4f11ca1f139b38b9f49dc85752310c/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-21%20225939.png)
 ## Usage
 Once the API is running, you can use tools like Postman or Swagger UI to test the endpoints.
 
