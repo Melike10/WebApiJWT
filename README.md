@@ -102,7 +102,7 @@ Body:
 }
 ```
 Response: 200 OK with JWT token on success, 400 Bad Request on failure
-[]
+[Ekran görüntüsü 2024-10-21 225939.png]
 ## Usage
 Once the API is running, you can use tools like Postman or Swagger UI to test the endpoints.
 
